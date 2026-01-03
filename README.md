@@ -31,4 +31,4 @@ Soy una alumna en plena formación como Full Stack y ha sido un absoluto descubr
 ---
 
 ### ⚡ Algunos de mis proyectos destacados
-https://github.com/AlbaDomg/Pong-Game.git
+1. Classic Pong Game - Python: https://github.com/AlbaDomg/Pong-Game.git
