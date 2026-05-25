@@ -3,8 +3,7 @@
 ### 🚀 Sobre mí
 Soy una alumna en plena formación como Full Stack y ha sido un absoluto descubrimiento darme cuenta de lo mucho que me está agradando. Actualmente estoy enfocada en dominar las tecnologías del desarrollo web y la lógica de programación con Python. Mi objetivo es construir soluciones eficientes y visualmente atractivas.
 
-- 🏗️ Actualmente terminando mis estudios de **CSS** y diseño responsive.
-- 🎯 Próximo paso: **JavaScript** para dar vida y funcionalidad a mis proyectos.
+- 🎯 Próximo paso: **JavaScript**, **Node** y **React** para dar vida y funcionalidad a mis proyectos.
 - 🐍 También desarrollo scripts y lógica básica con **Python**.
 - 📫 Cómo contactarme: albadege94@gmail.com 
 
