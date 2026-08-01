@@ -52,7 +52,7 @@ I enjoy solving real-world problems through clean architecture, scalable solutio
 
 ## Featured Projects:
 
-###🚀 TVG Automation Platform
+##🚀 TVG Automation Platform
 
 Professional automation platform developed for Televisión de Galicia (TVG).
 
@@ -70,13 +70,13 @@ Node.js • React • TypeScript • MongoDB • Docker
 
 ---
 
-###🧠 TDAH App
+##🧠 TDAH App
 
 Application focused on helping people with ADHD improve organization and productivity.
 
 ---
 
-###🌐 AtmanSys
+##🌐 AtmanSys
 
 Corporate website for AtmanSys, showcasing software development, automation solutions and technical services
 
@@ -88,7 +88,7 @@ Corporate website for AtmanSys, showcasing software development, automation solu
 - Artificial Intelligence
 - Software Architecture
 - Automation Platforms
-- 
+
 ##📫 Contact:
 
 📧 albadege94@gmail.com 
