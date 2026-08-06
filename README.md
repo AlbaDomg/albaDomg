@@ -52,7 +52,7 @@ I enjoy solving real-world problems through clean architecture, scalable solutio
 
 ## 🚀Featured Projects:
 
-##🎬 TVG Automation Platform
+## 🎥 TVG Automation Platform
 
 Professional automation platform developed for Televisión de Galicia (TVG).
 
