@@ -50,9 +50,9 @@ I enjoy solving real-world problems through clean architecture, scalable solutio
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-## Featured Projects:
+## 🚀Featured Projects:
 
-##🚀 TVG Automation Platform
+##🎬 TVG Automation Platform
 
 Professional automation platform developed for Televisión de Galicia (TVG).
 
@@ -67,6 +67,25 @@ Professional automation platform developed for Televisión de Galicia (TVG).
 **Stack**
 
 Node.js • React • TypeScript • MongoDB • Docker
+
+---
+
+## 🤖 AtmanSys Lead Intelligence
+
+AI-powered internal platform developed to automate the discovery, analysis and qualification of potential clients for AtmanSys.
+
+**Key features**
+
+- AI-powered lead discovery
+- Business opportunity analysis
+- Operational bottleneck detection
+- Personalized software recommendations
+- Built-in CRM
+- AI-generated commercial proposals
+
+**Stack**
+
+HTML5 • CSS3 • JavaScript • Google Gemini API • PWA • Service Workers • Vercel
 
 ---
 
