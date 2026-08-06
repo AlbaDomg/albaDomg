@@ -89,13 +89,13 @@ HTML5 • CSS3 • JavaScript • Google Gemini API • PWA • Service Workers 
 
 ---
 
-##🧠 TDAH App
+## 🧠 TDAH App
 
 Application focused on helping people with ADHD improve organization and productivity.
 
 ---
 
-##🌐 AtmanSys
+## 🌐 AtmanSys WebPage
 
 Corporate website for AtmanSys, showcasing software development, automation solutions and technical services
 
