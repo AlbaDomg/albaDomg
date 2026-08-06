@@ -7,9 +7,8 @@
 I'm a Full Stack Developer passionate about building AI-powered applications, automation platforms and scalable software solutions.
 
 I enjoy combining modern web technologies with Artificial Intelligence to automate complex workflows, optimize business processes and solve real-world problems.
-Recently, I developed a production automation platform for Televisión de Galicia (TVG), automating YouTube publishing, SEO content generation and image creation through AI-assisted workflows.
 
-I'm currently focused on improving my skills in Artificial Intelligence, software architecture and full stack development.
+Recently, I developed a production automation platform for Televisión de Galicia (TVG), automating YouTube publishing, SEO content generation and image creation through AI-assisted workflows. I'm currently focused on improving my skills in Artificial Intelligence, software architecture and full stack development.
 
 ## 💻 Tech Stack
 
