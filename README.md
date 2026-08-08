@@ -110,7 +110,7 @@ Corporate website for AtmanSys, showcasing software development, automation solu
 - Software Architecture
 - Automation Platforms
 
-##📫 Contact:
+## 📫 Contact:
 
 📧 albadege94@gmail.com 
 
