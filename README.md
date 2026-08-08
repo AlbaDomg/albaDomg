@@ -2,8 +2,6 @@
   <img src="./bannergit.png" alt="Alba Domínguez García - Full Stack Developer | AI & Automation" width="100%">
 </p>
 
-# Hi, I'm Alba! 👋
-
 ## About Me
 
 I'm a Full Stack Developer passionate about building AI-powered applications, automation platforms and scalable software solutions.
