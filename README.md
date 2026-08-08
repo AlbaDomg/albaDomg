@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./bannergit.png" alt="Alba Domínguez García - Full Stack Developer | AI & Automation" width="100%">
+  <img src="./bannergitdef.png" alt="Alba Domínguez García - Full Stack Developer | AI & Automation" width="100%">
 </p>
 
 ## About Me
