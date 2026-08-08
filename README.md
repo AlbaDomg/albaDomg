@@ -4,8 +4,6 @@
 
 # Hi, I'm Alba! 👋
 
-### Full Stack Developer | Building AI-powered applications and automation platforms
-
 ## About Me
 
 I'm a Full Stack Developer passionate about building AI-powered applications, automation platforms and scalable software solutions.
