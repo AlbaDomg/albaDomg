@@ -50,6 +50,7 @@ Recently, I developed a production automation platform for Televisión de Galici
 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
+---
 
 ## 🚀Featured Projects:
 
