@@ -89,7 +89,7 @@ HTML5 • CSS3 • JavaScript • Google Gemini API • PWA • Service Workers 
 
 ---
 
-## 🧠 TDAH App
+## 🧠 ADHD App
 
 Application focused on helping people with ADHD improve organization and productivity.
 
